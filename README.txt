@@ -1,0 +1,1 @@
+The algorithms in Bioinformatics course, all the code of the assignments are found in this folder 
